@@ -1,1 +1,3 @@
-# 368573607-download_fc_neses
+# download_fc/neses
+
+自动下载和更新FC游戏的nes文件
